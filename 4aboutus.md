@@ -125,13 +125,13 @@ Soybean and Wheat Breeding
   
 <img src="../images/fernando.jpg" height="120">{: .image-pull-right}  
 **Fernando Henrique Correr**  
-PhD candidate in Genetics and Plant Breeding  
+PhD student in Genetics and Plant Breeding  
 Bioinformatics  
 [View Lattes](http://lattes.cnpq.br/4542494489905328)  
   
 <img src="../images/guilherme.jpg" height="120">{: .image-pull-right}  
 **Guilherme Kenichi Hosaka**  
-PhD candidate in Bioenergy  
+PhD student in Bioenergy  
 Bioinformatics  
 [View Lattes](http://lattes.cnpq.br/3794292798447973)  
 
@@ -147,6 +147,12 @@ PhD student in Genetics and Plant Breeding
 Bioinformatics applied to Bioenergy  
 [View Lattes](http://lattes.cnpq.br/0852214262732752)
 
+<img src="../images/cris.jpg" height="120">{: .image-pull-right}  
+**Cristiane Hayumi Taniguti**  
+PhD student in Genetics and Plant Breeding  
+Statistical Genetics, Molecular Biology and Bioinformatics  
+[View Lattes](http://lattes.cnpq.br/5351325433180836)  
+  
 <img src="../images/leonardo.jpg" height="120">{: .image-pull-right}  
 **Leonardo F. Gotardi**  
 Undergraduate student in Agricultural Engineering  
